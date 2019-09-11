@@ -1,0 +1,22 @@
+(PythonData) C:\Users\barbaraysl\GitHub\python-challenge\PyRoll>python main.py
+   Voter ID County Candidate
+0  12864552  Marsh      Khan
+1  17444633  Marsh    Correy
+2  19330107  Marsh      Khan
+3  19865775  Queen      Khan
+4  11927875  Marsh      Khan
+Election Result
+----------------------------------------
+Total Vote Cast: 3521001
+----------------------------------------
+Khan        0.63
+Correy      0.20
+Li          0.14
+O'Tooley    0.03
+Name: Candidate, dtype: float64 Khan        2218231
+Correy       704200
+Li           492940
+O'Tooley     105630
+Name: Candidate, dtype: int64
+----------------------------------------
+Winner:2218231
